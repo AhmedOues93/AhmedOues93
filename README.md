@@ -21,8 +21,11 @@
 
 ## 🚀 Projects
 
-- 🌍 [Travel Agency Website (React Router)](https://jovial-hotteok-975682.netlify.app)
-- 📔 [Personal Diary App (React + localStorage)](🔗 **rani نستنى في رابط Netlify متاعه**)
+- 🌍 [Travel Agency Website (React Router)](https://jovial-hotteok-975682.netlify.app)  
+  A simple React Router-based travel agency site showcasing destinations and pages.
+
+- 📔 [Personal Diary App (React + localStorage)](https://meek-swan-8e0db1.netlify.app)  
+  A diary app using React hooks and localStorage for saving personal notes.
 
 ---
 
@@ -32,3 +35,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedOues93&show_icons=true&theme=radical" alt="Ahmed's stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOues93&layout=compact&theme=radical" alt="Top langs" />
 </p>
+
